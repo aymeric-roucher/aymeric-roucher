@@ -1,7 +1,7 @@
-<h1 align="center">Hi, I'm Aymeric</h1>
-<h3 align="center">Machine Learning Engineer</h3>
+<h1 align="center">Hi, I'm Aymeric!</h1>
+<h3 align="left">Machine Learning Engineer</h3>
 
-- 🔭 I’m currently working at HuggingFace.
+🤗 I work at HuggingFace. 🤗
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
