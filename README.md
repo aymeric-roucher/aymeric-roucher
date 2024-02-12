@@ -9,9 +9,9 @@
 <a href="https://linkedin.com/in/a-roucher" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="a-roucher" height="30" width="40" /></a>
 </p>
 
-
+<p align="center">
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aymeric-roucher&theme=dark&background=000000)](https://git.io/streak-stats)
-
+</p>
 <!--
 **aymeric-roucher/aymeric-roucher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
