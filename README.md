@@ -5,7 +5,7 @@
     🐦 <a href="https://twitter.com/aymericroucher">Follow me on X</a> • 
     🤗 <a href="hf.co/m-ric">Hugging Face</a> • 
     💻 <a href="https://aymeric-roucher.github.io">Blog</a> • 
-    LI <a href="https://linkedin.com/in/a-roucher">LinkedIn</a>
+    <a href="https://linkedin.com/in/a-roucher">LinkedIn</a>
   </p>
 </div>
 <br/>
