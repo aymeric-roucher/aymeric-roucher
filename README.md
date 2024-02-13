@@ -1,18 +1,16 @@
 <h1 align="center">Hi, I'm Aymeric!</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Machine+Learning+Engineer;Working+on+cool+things;Open+source+🤗)](https://git.io/typing-svg)
+<div align="center">
+  <p align="center">
+    🐦 <a href="https://twitter.com/aymericroucher">Follow me on X</a> • 
+    🤗 <a href="hf.co/m-ric">Hugging Face</a> • 
+    💻 <a href="https://aymeric-roucher.github.io">Blog</a> • 
+    LI <a href="https://linkedin.com/in/a-roucher">LinkedIn</a>
+  </p>
+</div>
+<br/>
 
-- I work as an MLE at HuggingFace.
-
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aymeric-roucher&theme=dark&background=000000)](https://git.io/streak-stats)
-
-<h3 align="left">Connect with me:</h3>
-
-### - [🤗](hf.co/m-ric)
-### - [X](https://twitter.com/aymericroucher)
-### - [LI](https://linkedin.com/in/a-roucher)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Machine+Learning+Engineer;At+Hugging+Face;Working+on+cool+things;Open+source+🤗)](https://git.io/typing-svg)
   
 <!--
 **aymeric-roucher/aymeric-roucher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
